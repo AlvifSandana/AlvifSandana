@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Laravel and CodeIgniter
 - 📫 How to reach me: alvifsandana@gmail.com
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AlvifSandana&count_private=true&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvifSandana&count_private=true&show_icons=true&theme=tokyonight"/>
