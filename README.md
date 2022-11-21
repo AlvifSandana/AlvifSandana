@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - :wave: Hi, I’m Alvif Sandana Mahardika
 - 🔭 I’m currently working as freelancer
 - 👀 I’m interested in full-stack, mobile, and linux.
-- 🌱 I’m currently learning Laravel and CodeIgniter
+- 🌱 I’m currently learning Javascript stacks.
 - 📫 How to reach me: alvifsandana@gmail.com
 
 <p  align="center">
