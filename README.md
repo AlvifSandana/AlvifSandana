@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - :wave: Hi, I’m Alvif Sandana Mahardika
-- 🔭 I’m currently working as freelancer
+- 🔭 I’m currently working as freelancer and Software Engineer at PT Widaya Inti Plasma.
 - 👀 I’m interested in full-stack, mobile, and linux.
 - 🌱 I’m currently learning Javascript stacks.
 - 📫 How to reach me: alvifsandana@gmail.com
